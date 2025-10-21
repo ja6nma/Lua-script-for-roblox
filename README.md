@@ -1,6 +1,6 @@
---[#SalineWin.lua
+#SalineWin.lua
 
-Rainbow lighting
+--[Rainbow lighting
 
 Falling objects
 

@@ -1,4 +1,4 @@
-#SalineWin.lua
+**#SalineWin.lua**
 
 --[Rainbow lighting
 
@@ -10,4 +10,4 @@ Freezes players
 
 Teleportation 
 
-Background music--]
+Background music]--

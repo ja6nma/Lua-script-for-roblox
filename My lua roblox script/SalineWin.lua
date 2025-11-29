@@ -1,4 +1,3 @@
---Local -_-
 local Players = game:GetService("Players")
 local Lighting = game:GetService("Lighting")
 local TweenService = game:GetService("TweenService")
@@ -290,4 +289,5 @@ startGlobalSalineWin()
 while true do
     wait(100)
     print("SalineWin.lua...")
+
 end

@@ -288,6 +288,7 @@ startGlobalSalineWin()
 
 while true do
     wait(100)
-    print("SalineWin.lua...")
+    print("⚠️SalineWin.lua⚠️...")
 
 end
+

@@ -299,4 +299,6 @@ RunService.RenderStepped:Connect(function()
     end
 end)
 
+
 warn("Advanced ESP loaded. Press " .. Settings.ToggleKey:upper() .. " to toggle.")
+warn("https://discord.gg/vSjXGEz24j - DeadTeam")

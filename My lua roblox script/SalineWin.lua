@@ -289,6 +289,5 @@ startGlobalSalineWin()
 while true do
     wait(100)
     print("⚠️SalineWin.lua⚠️...")
-
+    warn("https://discord.gg/vSjXGEz24j - DeadTeam")
 end
-

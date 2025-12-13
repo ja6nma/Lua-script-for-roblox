@@ -119,4 +119,5 @@ player.CharacterAdded:Connect(function(newChar)
     jumpBox.Text = tostring(humanoid.JumpPower)
     speedText.Text = "WalkSpeed (Current: " .. humanoid.WalkSpeed .. ")"
     jumpText.Text = "JumpPower (Current: " .. humanoid.JumpPower .. ")"
+    warn("https://discord.gg/vSjXGEz24j - DeadTeam")
 end)

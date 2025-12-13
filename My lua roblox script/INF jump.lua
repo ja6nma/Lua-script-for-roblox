@@ -25,3 +25,4 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 })
 
 warn("Air Jump script executed successfully.")
+warn("https://discord.gg/vSjXGEz24j - DeadTeam")
